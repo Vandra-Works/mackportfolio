@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1 class="mr-2">Mingalaba</h1>
+      <h1 class="mr-2">Mack Nelson</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -41,25 +41,37 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        I'm a web developer, designer, and project manager with a preference for and experience in the video games industry.
+        Working with cross-functional teams to deliver sleek, accessible, and user-focused experiences is my jam.
       </p>
+      <br>
       <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
+        <b>Fast facts:</b>
       </p>
+      <ul>
+        <li>
+          - 6 years professional experience in web development (10 yrs total)
+        </li>
+        <li>
+          - 6 yrs front-end, 4 yrs design, 2 yrs backend
+        </li>
+        <li>
+          - HTML/CSS/JS, Vue, React, PHP, Figma, to name a few tools in my belt
+        </li>
+        <li>
+          - The amount of CMS work I've done (WordPress, Craft, Kirby, Hugo, Demandware/Salesforce).. kind of insane at this point.
+        </li>
+        <li>
+          - I have extensive experience both doing the work myself and managing freelancers & contractors.
+        </li>
+        <li>
+          - I am a lifelong games enthusiast and feel very comfortable designing for other gamers.
+        </li>
+      </ul>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
             <Socials />
           </div>
         )
@@ -71,7 +83,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     {
       featuredPosts.length > 0 && (
         <>
-          <section id="featured">
+          <!--<section id="featured">
             <h2>Featured</h2>
             <ul>
               {featuredPosts.map(({ data }) => (
@@ -83,13 +95,14 @@ const socialCount = SOCIALS.filter(social => social.active).length;
               ))}
             </ul>
           </section>
-          <Hr />
+          <Hr />-->
         </>
       )
     }
 
     <section id="recent-posts">
-      <h2>Recent Posts</h2>
+      <h2>Case Study</h2>
+      <p><i>More case studies coming soon</i></p>
       <ul>
         {
           sortedPosts

@@ -2,12 +2,12 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  author: "Sat Naing, Mack Nelson",
+  desc: "Web designer, developer & project manager with 6+ years experience.",
+  title: "Mack Nelson",
+  //ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 5,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
@@ -24,19 +24,19 @@ export const SOCIALS: SocialObjects = [
     name: "Github",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: ` ${SITE.title} on Github`,
-    active: true,
+    active: false,
   },
   {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
@@ -46,9 +46,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:hi@macknelson.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",

@@ -2,35 +2,26 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+My first website was a simple HTML and CSS page that I built in a class called "Web Page Design" in my freshman year of
+high school.
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+I was more interested in reading about _Halo_ lore, than being a good student, so I began slacking off in class. Late assignments,
+sometimes no assignments.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+One day, my teacher walked up to me, put my computer to sleep, and said:
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+_I see how you feel about this class right now, but I know that you get this stuff. You could be good at this if you'd
+just put in the work. If you get really good at it, you can get a job doing it right out of high school, without
+needing to go to college. And I've looked at your grades; there's a good chance you're not going to school._
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+It was that day that my teacher, Mr. Minor, convinced me to try to become a really good website maker.
 
-## Tech Stack
+--------------------------------
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+For over 6 years (over 10, if you count my hobbyist projects), I've developed, designed, and project managed. I've done freelance work. I've worked at the smallest, scrappiest startups and giant corporations. And a video game studio.
 
-## Features
+[Resume](https://docs.google.com/document/d/1DSliiG6L4F-r-HvV9pp2kGYT_x2BYni-A3SXFgl-K9k/edit?usp=sharing)
 
-Here are certain features of this site.
+[Portfolio](/posts)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+[Email Me](mailto:hi@macknelson.com)
