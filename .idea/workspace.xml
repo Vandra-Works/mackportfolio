@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbd8a5a4-e2c3-43dc-bd97-582d441aebb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.markdownlint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AstroPaper-lighthouse-score.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/forrest-gump-quote.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/astropaper-og.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/toggle-theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remark-collapse.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/AstroPaper-v3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/socialIcons.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumbs.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Datetime.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Hr.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LinkButton.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Socials.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tag.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/adding-new-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/astro-paper-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/astro-paper-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/customizing-astropaper-theme-color-schemes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/dynamic-og-images.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/example-draft-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/how-to-add-an-estimated-reading-time.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/how-to-configure-astropaper-theme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/how-to-connect-astro-paper-blog-with-forestry-cms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/how-to-update-dependencies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/portfolio-website-development.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/predefined-color-schemes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/tailwind-typography.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/terminal-development.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AboutLayout.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Layout.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Main.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PostDetails.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Posts.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/404.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/og.png.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/posts/[slug]/index.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/posts/[slug]/index.png.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/posts/index.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/rss.xml.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/search.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tags/[tag].astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tags/index.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/generateOgImages.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getPageNumbers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getPostsByTag.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getSortedPosts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getUniqueTags.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/og-templates/post.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/og-templates/site.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/slugify.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.2.5/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VxcvxhaWqBMTf479vW3TgVehKC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbd8a5a4-e2c3-43dc-bd97-582d441aebb1" name="Changes" comment="" />
+      <created>1695781408686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695781408686</updated>
+      <workItem from="1695781413795" duration="56000" />
+      <workItem from="1695781484340" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
