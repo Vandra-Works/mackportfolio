@@ -5,7 +5,7 @@ title: "About"
 My first website was a simple HTML and CSS page that I built in a class called "Web Page Design" in my freshman year of
 high school.
 
-I was more interested in reading about _Halo_ lore, than being a good student, so I began slacking off in class. Late assignments,
+I was more interested in reading about _Halo_ lore than being a good student, so I began slacking off in class. Late assignments,
 sometimes no assignments.
 
 One day, my teacher walked up to me, put my computer to sleep, and said:

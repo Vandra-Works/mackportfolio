@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbd8a5a4-e2c3-43dc-bd97-582d441aebb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/blog/among-us-vr-player-safety.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Socials.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Socials.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/adding-new-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/adding-new-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/astro-paper-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/astro-paper-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/astro-paper-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/customizing-astropaper-theme-color-schemes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/customizing-astropaper-theme-color-schemes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/dynamic-og-images.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/dynamic-og-images.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/example-draft-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/how-to-add-an-estimated-reading-time.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/how-to-add-an-estimated-reading-time.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/how-to-configure-astropaper-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/how-to-configure-astropaper-theme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/how-to-connect-astro-paper-blog-with-forestry-cms.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/how-to-connect-astro-paper-blog-with-forestry-cms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/how-to-update-dependencies.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/how-to-update-dependencies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/portfolio-website-development.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/portfolio-website-development.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/predefined-color-schemes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/predefined-color-schemes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/tailwind-typography.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/tailwind-typography.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/terminal-development.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/terminal-development.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/PostDetails.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/PostDetails.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Posts.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Posts.astro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695781408686</updated>
       <workItem from="1695781413795" duration="56000" />
-      <workItem from="1695781484340" duration="6447000" />
+      <workItem from="1695781484340" duration="6694000" />
     </task>
     <servers />
   </component>
