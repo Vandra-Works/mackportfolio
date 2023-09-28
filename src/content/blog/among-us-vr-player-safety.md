@@ -14,7 +14,7 @@ description:
   Some writings of the my work on the design of Among Us VR's Player Safety Solution.
 ---
 
-_If you're Bungie and you're reading this, I'm working to update this page with pictures of my wireframes, mockups, notes etc., but if you'd like to see them sooner, I have them upon request._
+_I'm working to update this page with pictures of my wireframes, mockups, notes etc., but if you'd like to see them sooner, I have them upon request._
 
 Among Us VR - the virtual reality reimagining of perhaps the pandemic’s hottest viral gaming sensation - was a few months away from launch. As I sat wrapping up work on the schellgames.com revamp, an email landed into my inbox.
 
