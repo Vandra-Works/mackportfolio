@@ -11,8 +11,7 @@ tags:
   - gaming
   - figma
   - toxmod
-description:
-  Some writings of the my work on the design of Among Us VR's Player Safety Solution.
+description: Some writings of the my work on the design of Among Us VR's Player Safety Solution.
 ---
 ![Cover image for article regarding player safety in Among Us VR](https://cdn.vandraworks.com/mackportfolio/web-portfolio-mockup_11-min.png)
 
