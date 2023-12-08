@@ -1,4 +1,3 @@
-
 ---
 title: Designing Among Us VR’s Player Safety Solution
 author: Mack Nelson
