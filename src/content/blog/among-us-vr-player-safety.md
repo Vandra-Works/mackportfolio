@@ -10,11 +10,9 @@ tags:
   - gaming
   - figma
   - toxmod
-description:
-  Some writings of the my work on the design of Among Us VR's Player Safety Solution.
+description: Some writings of the my work on the design of Among Us VR's Player Safety Solution.
 ---
-
-_I'm working to update this page with pictures of my wireframes, mockups, notes etc., but if you'd like to see them sooner, I have them upon request._
+![Cover image for article regarding player safety in Among Us VR](https://cdn.vandraworks.com/mackportfolio/web-portfolio-mockup_11-min.png)
 
 Among Us VR - the virtual reality reimagining of perhaps the pandemic’s hottest viral gaming sensation - was a few months away from launch. As I sat wrapping up work on the schellgames.com revamp, an email landed into my inbox.
 
@@ -38,6 +36,8 @@ Innersloth, the creators of the original Among Us title, went through a similar 
 
 Schell Games also partnered with Keywords, a major video game services company in order to provide player support assistance. Part of my design process was keeping in close contact with our partners at Keywords. As their agents would be the ones most closely interacting with the tool, and seeing as though they likely had experience with other tools similar to the one we were building, I wanted to make sure that their input was as highly valued as some of our internal stakeholders. Their insight provided us with loads of additional considerations and edge cases (what happens to a support agent’s active tickets when they go offline, or get sick?)
 
+![Two early sketches of the Player Safety app for Among Us VR](https://cdn.vandraworks.com/mackportfolio/Frame%201-min.jpg)
+
 **Cognitive Load**
 
 One recurring priority ran throughout our conversations with our external partners and internal stakeholders. - speed. Specifically, the speed at which an agent can work through a report in our system. We expected hundreds of thousands of players in our first week, with 1 to 4 percent of them submitting at least one report; a queue of player reports could quickly balloon into the tens of thousands. Designing a system which allowed agents to get through a player report in the quickest time possible was very important.
@@ -50,11 +50,17 @@ With these two realizations in mind, reducing the overall cognitive load on a su
 
 It’s been proven that taking massive datasets and turning them into smaller and more manageable chunks reduces the cognitive load on the brain. For this reason, we developed the “Batch Queue” system - a way for support agents to get small, manageable batches of reports from the database instead of immediately being confronted with a virtually infinite list of infractions. This also allowed agents to “own” reports, eliminating the likelihood of two agents getting the same report.
 
+![Image of the Queue View](https://cdn.vandraworks.com/mackportfolio/Queue%20%28Pre-Chunk%29%20%282%29-min.png)
+
 **The Player Card**
 
 Alright, we’ve got a way for agents to chip away at the queue of individual reports - but we’ve still got thousands of potential reports coming in every week. Not manageable. What other ways do we have of reducing the amount of reports in the queue? Additionally, we can make an assumption that a lot of players that break the rules will be repeat offenders. What if two players report the same suspect for the same infraction? How can we mark that as a duplicate?
 
-Through one of our design syncs came the answer to that question - the Player Card. Instead of displaying individual reports to a support agent and then handing out bans based on those individual infractions, we instead decided to group together all existing infractions that a player has accrued and then display all of them at once to a support agent. Immediately, we have drastically reduced the overall “items” in the queue - from tens of thousands of reports to thousands of player cards.
+Through one of our design syncs came the answer to that question - the Player Card.
+
+![Image of Queue system at work](https://cdn.vandraworks.com/mackportfolio/Queue%20-%20Card%20%28Incident%20Review%29%20%281%29-min.png)
+
+Instead of displaying individual reports to a support agent and then handing out bans based on those individual infractions, we instead decided to group together all existing infractions that a player has accrued and then display all of them at once to a support agent. Immediately, we have drastically reduced the overall “items” in the queue - from tens of thousands of reports to thousands of player cards.
 
 This design also provides support agents with much more context than if the app were to just provide an individual report. Each Player Card includes a high-level summary of a player’s infraction history, including:
 
@@ -89,7 +95,7 @@ I find that the most foolproof way to good design is repeated iteration. General
 
 **Handing Off**
 
-Eventually, my work on the player safety team came to an end - and it came time to hand off my design work to the Design Director of the project as I returned to my normal duties within Marketing. Through a commitment to consistent documentation (both with an evergreen Product Brief and Design Doc as well as contextual comments on the design itself), the handoff was simple, with minimal need for project walkthroughs or other resources spent clarifying my work on the project.
+Eventually, my work on the player safety team came to an end - and it came time to hand off my design work to the Design Director of the project as I returned to my normal duties within Marketing. Through a commitment to consistent documentation (both with an evergreen Product Brief/Design Doc, a User Manual to help describe functionality from the Support Agent perspective, as well as contextual comments on the design itself), the handoff was simple, with minimal need for project walkthroughs or other resources spent clarifying my work on the project.
 
 **Results**
 
